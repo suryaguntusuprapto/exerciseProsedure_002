@@ -17,7 +17,7 @@ string status(double a, double b) {
 int main() {
     double nilaibing[20];
     double nilaimath[20];
-    string nama[20] = { "asroni","lia","joko","abdi","adelia","fadil","budi","toni","gotze","mario","dandi","anton","roy","hanoman","krishna","nikita","indra","atha","deily","dewi" };
+    string nama[20] = { "asroni","lia","joko","surya","guntur","fadil","budi","toni","gotze","mario","dandi","anton","roy","hanoman","krishna","nikita","indra","atha","deily","dewi" };
     string status1[20];
     int jumlahditerima = 0;
 
